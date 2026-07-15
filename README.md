@@ -1,6 +1,6 @@
-# Antigravity RAG: Production-Ready Document Q&A System
+# DocAnalyzer: Production-Ready Document Q&A System
 
-Antigravity RAG is an enterprise-grade, multi-user Retrieval-Augmented Generation (RAG) Document Q&A System. It isolates user collections at the database and vector levels, parses documents page-by-page to generate exact citations, and executes semantic retrieval via local Sentence Transformer embeddings and ChromaDB.
+DocAnalyzer is an enterprise-grade, multi-user Retrieval-Augmented Generation (RAG) Document Q&A System. It isolates user collections at the database and vector levels, parses documents page-by-page to generate exact citations, and executes semantic retrieval via local Sentence Transformer embeddings and ChromaDB.
 
 ---
 
